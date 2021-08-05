@@ -6,6 +6,7 @@ import urllib3
 import re
 import json
 import codecs
+urllib3.disable_warnings()
 
 baseUrl = "https://nobatdehi.epolice.ir"
 HEADERS = {

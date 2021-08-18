@@ -1,5 +1,7 @@
-This script helps you to reserve a time for your car at License plate replacement center of Iran quickly
+This script helps you to reserve a time for your car at License plate replacement center of Iran quickly.
 # USE IT ON YOUR OWN RISK!
+
+I'm not a python developer, I learn python in 2hours for this project so the code might smell (might? it must!)
 <br/>
 
 #### Module Installation
